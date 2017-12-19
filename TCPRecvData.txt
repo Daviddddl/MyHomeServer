@@ -1,0 +1,17 @@
+,GQd:1,AIR:175,AIRD:0
+0
+Humidity:33.00,Temperature:21.00,GQa:676,GQd:1,AIR:179,AIRD:0
+1
+
+------------
+Humidity:32.00,Temperature:21.00,GQa:654,GQd:1,AIR:175,AIRD:0
+0
+Humidity:33.00,Temperature:21.00,GQa:676,GQd:1,AIR:179,AIRD:0
+1
+Humidity:33.00,Temperature:21.00,GQa:677,GQd:1,AIR:178,AIRD:0
+------------
+Humidity:33.00,Temperature:21.00,GQa:667,GQd:1,AIR:175,AIRD:0
+0
+1
+Humidity:32.00,Temperature:21.00,GQa:669,GQd:1,AIR:180,AIRD:0
+------------

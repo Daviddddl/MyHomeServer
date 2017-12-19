@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="fileListener" class="com.luwen.dai.FileListener" />
+    <bean id="fileMonitor" class="com.luwen.dai.FileMonitor">
+        <property name="alterationListener" ref="fileListener"/>
+        <property name="filePath" value="H:/SVN-"/>
+    </bean>
+</beans>

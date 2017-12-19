@@ -1,0 +1,37 @@
+
+------------------------------------------
+
+------------------------------------------
+laksjdlas
+------------------------------------------
+
+a:306,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:1�k,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:315,d:1
+: 19.00 ℃ 
+a:306,d:1
+Humi1�ky: 11.00
+Temperature: 19.00 ℃ 
+a:353,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:315,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:665,d:1
+Humidity: 10.00
+Temperature: 18.00 ℃ 
+a:418,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:348,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:300,d:1
+Humidity: 11.00
+Temperature: 19.00 ℃ 
+a:299,d:1
